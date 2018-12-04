@@ -34,5 +34,6 @@ public class JavaMethods {
 		System.out.println(classVar);  // classVar is a class variable which can be accessed anywhere in the class
 		//System.out.println(z); z cannot be accessed in this method  because it is local to addTwoNumbers method
 	}
+	
 
 }
