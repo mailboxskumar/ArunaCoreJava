@@ -37,6 +37,7 @@ package methods;
  * }
  * 
  * How to Call a Non-Parameterized Method?
+ * 
  * 	- until unless you call the method -  the Code inside the method will not be executed
  * 	- for using a method you need to call it when there is need to execute the business logic which inside the method
  * 	- so for calling the Non-Parameterized method which is present in same class as the caller when there is need follow like: <methodName>()
